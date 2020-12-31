@@ -1,0 +1,4 @@
+name: First_ndice
+version: ${project.version}
+main: nappuru.ndice.first_ndice.First_ndice
+api-version: 1.16
